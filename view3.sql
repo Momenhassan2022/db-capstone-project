@@ -1,0 +1,1 @@
+SELECT * FROM littlelemondm.task2view;

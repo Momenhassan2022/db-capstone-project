@@ -1,0 +1,1 @@
+SELECT * FROM littlelemondm.t3view;
