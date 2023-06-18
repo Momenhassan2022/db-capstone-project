@@ -1,0 +1,1 @@
+SELECT * FROM littlelemondm2.bookings;
